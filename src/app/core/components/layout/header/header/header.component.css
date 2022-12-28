@@ -1,0 +1,14 @@
+mat-toolbar{
+  justify-content: space-between;
+
+}
+
+nav ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+a{
+  text-decoration: none;
+}
